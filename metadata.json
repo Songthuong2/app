@@ -1,0 +1,5 @@
+{
+  "name": "AdminOCR: PDF to Word Pro",
+  "description": "An advanced tool to convert PDF documents to Word (DOCX) while preserving administrative layout standards using Gemini-powered OCR and structural analysis.",
+  "requestFramePermissions": []
+}
